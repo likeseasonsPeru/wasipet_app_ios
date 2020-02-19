@@ -18,6 +18,18 @@
 		2DCD954D1E0B4F2C00145EB5 /* wasipet_app_iosTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* wasipet_app_iosTests.m */; };
 		41E98FD46DFDDCD7406BC76B /* libPods-wasipet_app_ios-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 59EBA456D17C63F486E6B376 /* libPods-wasipet_app_ios-tvOSTests.a */; };
 		41EC14A318A809A4E393B7BB /* libPods-wasipet_app_iosTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D5AEBF766FB344ACFE7D1E8 /* libPods-wasipet_app_iosTests.a */; };
+		62AF870B23FDA4EE00F7A9F9 /* libFBReactNativeSpec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF870723FDA4EE00F7A9F9 /* libFBReactNativeSpec.a */; };
+		62AF870C23FDA4EE00F7A9F9 /* libFBSDKCoreKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF870823FDA4EE00F7A9F9 /* libFBSDKCoreKit.a */; };
+		62AF870D23FDA4EE00F7A9F9 /* libFBSDKLoginKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF870923FDA4EE00F7A9F9 /* libFBSDKLoginKit.a */; };
+		62AF870E23FDA4EE00F7A9F9 /* libFBSDKShareKit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF870A23FDA4EE00F7A9F9 /* libFBSDKShareKit.a */; };
+		62AF871323FDA50000F7A9F9 /* libFirebaseCore.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF870F23FDA4FF00F7A9F9 /* libFirebaseCore.a */; };
+		62AF871423FDA50000F7A9F9 /* libFirebaseCoreDiagnostics.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF871023FDA4FF00F7A9F9 /* libFirebaseCoreDiagnostics.a */; };
+		62AF871523FDA50000F7A9F9 /* libFirebaseInstallations.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF871123FDA4FF00F7A9F9 /* libFirebaseInstallations.a */; };
+		62AF871623FDA50000F7A9F9 /* libFirebaseInstanceID.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 62AF871223FDA50000F7A9F9 /* libFirebaseInstanceID.a */; };
+		62AF871823FDB16C00F7A9F9 /* ios in Resources */ = {isa = PBXBuildFile; fileRef = 62AF871723FDB16C00F7A9F9 /* ios */; };
+		62AF871A23FDB18900F7A9F9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 62AF871923FDB18900F7A9F9 /* GoogleService-Info.plist */; };
+		62AF871C23FDC94300F7A9F9 /* ios in Resources */ = {isa = PBXBuildFile; fileRef = 62AF871B23FDC94200F7A9F9 /* ios */; };
+		62AF871E23FDCC7600F7A9F9 /* ios in Resources */ = {isa = PBXBuildFile; fileRef = 62AF871D23FDCC7500F7A9F9 /* ios */; };
 		66CA8DD50AF021E6A2C63074 /* libPods-wasipet_app_ios-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F609C0E047C35516561E6636 /* libPods-wasipet_app_ios-tvOS.a */; };
 		91CBCBE41C37AA57B34D7C3B /* libPods-wasipet_app_ios.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 37BD52F73736C912E86769D8 /* libPods-wasipet_app_ios.a */; };
 /* End PBXBuildFile section */
@@ -62,6 +74,18 @@
 		57C21C6877A1B4A07D951EE4 /* Pods-wasipet_app_ios-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-wasipet_app_ios-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-wasipet_app_ios-tvOS/Pods-wasipet_app_ios-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		59EBA456D17C63F486E6B376 /* libPods-wasipet_app_ios-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-wasipet_app_ios-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D5AEBF766FB344ACFE7D1E8 /* libPods-wasipet_app_iosTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-wasipet_app_iosTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF870723FDA4EE00F7A9F9 /* libFBReactNativeSpec.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFBReactNativeSpec.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF870823FDA4EE00F7A9F9 /* libFBSDKCoreKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFBSDKCoreKit.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF870923FDA4EE00F7A9F9 /* libFBSDKLoginKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFBSDKLoginKit.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF870A23FDA4EE00F7A9F9 /* libFBSDKShareKit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFBSDKShareKit.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF870F23FDA4FF00F7A9F9 /* libFirebaseCore.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFirebaseCore.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF871023FDA4FF00F7A9F9 /* libFirebaseCoreDiagnostics.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFirebaseCoreDiagnostics.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF871123FDA4FF00F7A9F9 /* libFirebaseInstallations.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFirebaseInstallations.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF871223FDA50000F7A9F9 /* libFirebaseInstanceID.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libFirebaseInstanceID.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		62AF871723FDB16C00F7A9F9 /* ios */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ios; sourceTree = "<group>"; };
+		62AF871923FDB18900F7A9F9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "wasipet_app_ios/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		62AF871B23FDC94200F7A9F9 /* ios */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ios; sourceTree = "<group>"; };
+		62AF871D23FDCC7500F7A9F9 /* ios */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ios; sourceTree = "<group>"; };
 		6BC70E134001700E2A700E18 /* Pods-wasipet_app_ios-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-wasipet_app_ios-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-wasipet_app_ios-tvOSTests/Pods-wasipet_app_ios-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		9B8C825489863C829F229139 /* Pods-wasipet_app_ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-wasipet_app_ios.release.xcconfig"; path = "Target Support Files/Pods-wasipet_app_ios/Pods-wasipet_app_ios.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
@@ -82,7 +106,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62AF870C23FDA4EE00F7A9F9 /* libFBSDKCoreKit.a in Frameworks */,
 				91CBCBE41C37AA57B34D7C3B /* libPods-wasipet_app_ios.a in Frameworks */,
+				62AF871423FDA50000F7A9F9 /* libFirebaseCoreDiagnostics.a in Frameworks */,
+				62AF870E23FDA4EE00F7A9F9 /* libFBSDKShareKit.a in Frameworks */,
+				62AF870B23FDA4EE00F7A9F9 /* libFBReactNativeSpec.a in Frameworks */,
+				62AF871623FDA50000F7A9F9 /* libFirebaseInstanceID.a in Frameworks */,
+				62AF870D23FDA4EE00F7A9F9 /* libFBSDKLoginKit.a in Frameworks */,
+				62AF871523FDA50000F7A9F9 /* libFirebaseInstallations.a in Frameworks */,
+				62AF871323FDA50000F7A9F9 /* libFirebaseCore.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +171,14 @@
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				62AF870F23FDA4FF00F7A9F9 /* libFirebaseCore.a */,
+				62AF871023FDA4FF00F7A9F9 /* libFirebaseCoreDiagnostics.a */,
+				62AF871123FDA4FF00F7A9F9 /* libFirebaseInstallations.a */,
+				62AF871223FDA50000F7A9F9 /* libFirebaseInstanceID.a */,
+				62AF870723FDA4EE00F7A9F9 /* libFBReactNativeSpec.a */,
+				62AF870823FDA4EE00F7A9F9 /* libFBSDKCoreKit.a */,
+				62AF870923FDA4EE00F7A9F9 /* libFBSDKLoginKit.a */,
+				62AF870A23FDA4EE00F7A9F9 /* libFBSDKShareKit.a */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
 				37BD52F73736C912E86769D8 /* libPods-wasipet_app_ios.a */,
@@ -159,6 +199,10 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				62AF871B23FDC94200F7A9F9 /* ios */,
+				62AF871D23FDCC7500F7A9F9 /* ios */,
+				62AF871923FDB18900F7A9F9 /* GoogleService-Info.plist */,
+				62AF871723FDB16C00F7A9F9 /* ios */,
 				13B07FAE1A68108700A75B9A /* wasipet_app_ios */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* wasipet_app_iosTests */,
@@ -194,7 +238,6 @@
 				2DFABD7025D7D42AC848616D /* Pods-wasipet_app_iosTests.debug.xcconfig */,
 				282BE52A935F23AD774FD9D0 /* Pods-wasipet_app_iosTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -230,6 +273,7 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				473E55139B01D072332F3EAD /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -292,6 +336,9 @@
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = GXAYPTL2L7;
+					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
@@ -308,6 +355,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -336,8 +384,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				62AF871E23FDCC7600F7A9F9 /* ios in Resources */,
+				62AF871823FDB16C00F7A9F9 /* ios in Resources */,
+				62AF871A23FDB18900F7A9F9 /* GoogleService-Info.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				62AF871C23FDC94300F7A9F9 /* ios in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +459,26 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		473E55139B01D072332F3EAD /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-wasipet_app_ios/Pods-wasipet_app_ios-resources.sh",
+				"${PODS_ROOT}/FBSDKCoreKit/FacebookSDKStrings.bundle",
+				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FacebookSDKStrings.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/GoogleSignIn.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-wasipet_app_ios/Pods-wasipet_app_ios-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		503593D16F8C90384E79EE67 /* [CP] Check Pods Manifest.lock */ = {
@@ -628,6 +700,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = GXAYPTL2L7;
 				INFOPLIST_FILE = wasipet_app_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -647,6 +720,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GXAYPTL2L7;
 				INFOPLIST_FILE = wasipet_app_ios/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (

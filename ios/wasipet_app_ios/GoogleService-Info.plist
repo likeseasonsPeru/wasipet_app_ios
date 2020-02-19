@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>39060478916-fs92avl5247om0do9esmovicu1c5g3jq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39060478916-fs92avl5247om0do9esmovicu1c5g3jq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>39060478916-0a1q4ljq19p1070su5ipp638oqg330ad.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMNWwnZWe17QaS83Qqjw03PJGMSVrK9DI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39060478916</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wasipetaApp</string>
+	<key>PROJECT_ID</key>
+	<string>wasipet-app-bb041</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wasipet-app-bb041.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39060478916:ios:f23052a0f4d0174eb5a291</string>
+	<key>DATABASE_URL</key>
+	<string>https://wasipet-app-bb041.firebaseio.com</string>
+</dict>
+</plist>
